@@ -1,0 +1,12 @@
+/* DOMINICREICH.COM */
+
+  Designer:     Dominic Reich
+  Twitter:      @freefall0
+  Location:     Längenfeld, Tirol, Austria
+
+  Last updated: {{ site.time }}
+  Language:     English
+  Built with:   Visual Studio Code <https://code.visualstudio.com>
+                Vim <https://www.vim.org>
+                Transmit <https://panic.com/transmit/>
+                
