@@ -1,12 +1,15 @@
-/* DOMINICREICH.COM */
+   ___  ____  __  ________  ___________  ___  _______________ __
+  / _ \/ __ \/  |/  /  _/ |/ /  _/ ___/ / _ \/ __/  _/ ___/ // /
+ / // / /_/ / /|_/ _/ //    _/ // /__  / , _/ _/_/ // /__/ _  /
+/____/\____/_/  /_/___/_/|_/___/\___/ /_/|_/___/___/\___/_//_/
+                                             relaunched 2019
 
-  Designer:     Dominic Reich
+  Site Owner:   Dominic Reich
   Twitter:      @freefall0
-  Location:     Längenfeld, Tirol, Austria
+  Location:     Ötztal, Tirol, Austria
 
   Last updated: {{ site.time }}
   Language:     English
   Built with:   Visual Studio Code <https://code.visualstudio.com>
                 Vim <https://www.vim.org>
                 Transmit <https://panic.com/transmit/>
-                
