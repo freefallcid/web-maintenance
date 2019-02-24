@@ -6,10 +6,10 @@
 
   Site Owner:   Dominic Reich
   Twitter:      @freefall0
-  Location:     Ötztal, Tirol, Austria
+  Location:     Längenfeld, Ötztal, Tirol, Austria
 
   Last updated: {{ site.time }}
-  Language:     English
+  Language:     English / German
   Built with:   Visual Studio Code <https://code.visualstudio.com>
                 Vim <https://www.vim.org>
-                Transmit <https://panic.com/transmit/>
+                Netlify <https://www.netlify.com>
