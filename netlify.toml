@@ -15,7 +15,7 @@
     Access-Control-Allow-Origin = "*"
     Vary = "Accept-Encoding"
     Access-Control-Allow-Credentials = "true"
-    Feature-Policy = "geolocation 'self' https://mademistakes.com; autoplay 'none'; lazyload 'self' https://mademistakes.com; sync-xhr 'self' https://mademistakes.com"
+    Feature-Policy = "geolocation 'self' https://dominicreich.com; autoplay 'none'; lazyload 'self' https://dominicreich.com; sync-xhr 'self' https://dominicreich.com"
 
 [[headers]]
   for = "/assets/*"
